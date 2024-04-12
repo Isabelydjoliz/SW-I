@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.exe
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.deps.json
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.dll
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.pdb
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.dll
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\refint\FolhaPagamento.dll
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.pdb
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\FolhaPagamento\FolhaPagamento\obj\Debug\net6.0\ref\FolhaPagamento.dll
